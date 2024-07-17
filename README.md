@@ -1,4 +1,4 @@
-# LiveKit Assistant
+# LiveKit Video + Voice Assistant
 
 First, create a virtual environment, update pip, and install the required packages:
 
